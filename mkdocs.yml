@@ -1,0 +1,20 @@
+site_name: Fruit
+site_url: https://fruit.hamhimstudio.com/
+repo_url: https://github.com/hamhimdev/fruit
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+theme:
+  favicon: assets/favicon.png
+  icon:
+    logo: material/fruit-cherries
+    repo_url: fontawesome/brands/github
+  name: material
+  font:
+    text: Inter
+    code: Roboto Mono
+  palette:
+    primary: deep orange
+    scheme: slate
