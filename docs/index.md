@@ -27,3 +27,4 @@ Fruit is still being updated. We are aware that all the categories are not fille
 
 ### :material-email: Email services
 - :fontawesome-brands-google: [Gmail](https://mail.google.com/mail) - Gmail is email that's intuitive, efficient, and useful.
+- :fontawesome-brands-microsoft: [Outlook](https://outlook.live.com/) - Outlook.com is a free, personal email service.
