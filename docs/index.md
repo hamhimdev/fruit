@@ -23,3 +23,4 @@ Fruit is still being updated. We are aware that all the categories are not fille
 - :fontawesome-brands-discord: [Discord](https://discord.com/) - A place that makes it easy to talk every day and hang out more often.
 - :fontawesome-brands-guilded: [Guilded](https://www.guilded.gg/) - Guilded upgrades your group chat and equips your server with integrated event calendars, forums, and more – 100% free.
 - :fontawesome-brands-skype: [Skype](https://www.skype.com/en/) - A popular platform in it's old days. Now owned by :fontawesome-brands-microsoft: Microsoft.
+- :fontawesome-brands-teamspeak: [TeamSpeak](https://teamspeak.com/) - Use crystal clear sound to communicate with your team mates cross-platform with military-grade security, lag-free performance & unparalleled reliability and uptime.
