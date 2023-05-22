@@ -1,7 +1,6 @@
 # Fruit
 ---
-Fruit is still being updated. We are aware that all the categories are not filled.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/83bac193-761d-469f-845e-d0fa13402335/deploy-status)](https://app.netlify.com/sites/zesty-marzipan-2963c1/deploys)
+[![Deploy](https://github.com/hamhimdev/fruit/actions/workflows/main.yml/badge.svg)](https://github.com/hamhimdev/fruit/actions/workflows/main.yml)
 ### 🍒 Welcome to fruit.
 - A large and extensive hub for all designer and developer needs. Everything here is 100% free.
 - You can help us by sending Pull Requests to add more services or by removing ones whose offerings have changed or been retired.
