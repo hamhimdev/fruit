@@ -39,4 +39,6 @@ Fruit is still being updated. We are aware that all the categories are not fille
 
 ### :material-email: Email services
 - :material-gmail: [Gmail](https://mail.google.com/mail) - Gmail is email that's intuitive, efficient, and useful.
-- :material-microsoft-outlook: [Outlook](https://outlook.live.com/) - Outlook.com is a free, personal email service.
+- :material-microsoft-outlook: [Outlook](https://outlook.live.com/) - Outlook is a free, personal email service.
+- :simple-protonmail: [Proton Mail](https://proton.me/mail) - Keep your conversations private. Proton Mail is an encrypted email service based in Switzerland.
+- :fontawesome-brands-yahoo: [yahoo!mail](https://overview.mail.yahoo.com/) - Get stuff done, with a whopping 1TB of free storage, and utterlessly useful features!
