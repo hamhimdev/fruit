@@ -1,6 +1,5 @@
 # Fruit
 ---
-[![Deploy](https://github.com/hamhimdev/fruit/actions/workflows/main.yml/badge.svg)](https://github.com/hamhimdev/fruit/actions/workflows/main.yml)
 ### 🍒 Welcome to fruit.
 - A large and extensive hub for all designer and developer needs. Everything here is 100% free.
 - You can help us by sending Pull Requests to add more services or by removing ones whose offerings have changed or been retired.
