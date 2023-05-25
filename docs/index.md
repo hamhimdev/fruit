@@ -66,3 +66,5 @@
 - :simple-zoho: [Zoho Mail](https://mail.zoho.com/mz) - Host your business email on a secure, encrypted, privacy-guaranteed, and ad-free email service.
 
 ### :material-code-tags: IDEs
+
+:simple-visualstudiocode: [Visual Studio Code](https://code.visualstudio.com/) - Free code editor. Built on open source. Runs everywhere.
