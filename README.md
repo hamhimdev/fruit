@@ -19,7 +19,7 @@
 
 ### 🍒 How do I preview the page or change functionality of the page?
 - You will need `Python 3.4` or Higher which you can get [here](https://www.python.org/).
-- Run `pip install mkdocs-material` (the mkdocs skin we use, should come with mkdocs as a presquity) and then check if mkdocs is installed with `mkdocs --version`. If not, run `pip install mkdocs`.
+- Run `pip install mkdocs-material` (the mkdocs skin we use, should come with mkdocs as a presquity) and then check if mkdocs is installed with `mkdocs --version`. If not, run `pip install mkdocs`. You can also run `pip install -r requirements.txt` alternatively.
 - Then clone this repository using `git clone https://github.com/hamhimdev/fruit`.
 - You can now edit index.md in the `docs` folder as much as you want following the pull request guidelines before this topic.
 - After you are done, you need to be in the parent folder of the `docs` folder, and if you have changed anything, such as the theme, or need additonal features, add it through mkdocs.yml. You can refer to [the mkdocs page](https://www.mkdocs.org) and [squidfunk's material theme for mkdocs](https://squidfunk.github.io/mkdocs-material/) if you need to.
