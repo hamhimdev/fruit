@@ -71,3 +71,5 @@
 :simple-visualstudiocode: [Visual Studio Code](https://code.visualstudio.com/) - Free code editor. Built on open source. Runs everywhere.
 
 ### :material-format-paint: Graphic softwares
+
+:simple-figma: [Figma](https://www.figma.com/) - Figma connects everyone in the design process so teams can deliver better products, faster.
