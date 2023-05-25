@@ -64,3 +64,5 @@
 - :octicons-mention-16: [Temp Mail](https://mail.tm/) - Protect your personal email address from spam, bots, phishing and other online abuse. Temporary anonymous email address - no commitments and no risks.
 - :fontawesome-brands-yahoo: [yahoo!mail](https://overview.mail.yahoo.com/) - Get stuff done, with a whopping 1TB of free storage, and utterlessly useful features!
 - :simple-zoho: [Zoho Mail](https://mail.zoho.com/mz) - Host your business email on a secure, encrypted, privacy-guaranteed, and ad-free email service.
+
+### :material-code-tags: IDEs
