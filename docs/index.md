@@ -57,6 +57,7 @@
 
 ### :material-email: Email services
 
+- :octicons-mail-16: [Fastmail](https://www.fastmail.com/) - Fast, private email that’s just for you.
 - :material-gmail: [Gmail](https://mail.google.com/mail) - Gmail is email that's intuitive, efficient, and useful.
 - :material-microsoft-outlook: [Outlook](https://outlook.live.com/) - Outlook is a free, personal email service.
 - :simple-protonmail: [Proton Mail](https://proton.me/mail) - Keep your conversations private. Proton Mail is an encrypted email service based in Switzerland.
