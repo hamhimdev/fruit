@@ -69,3 +69,5 @@
 
 :octicons-code-16: [CodeBlocks](https://www.codeblocks.org/) - Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
 :simple-visualstudiocode: [Visual Studio Code](https://code.visualstudio.com/) - Free code editor. Built on open source. Runs everywhere.
+
+### :material-format-paint: Graphic softwares
