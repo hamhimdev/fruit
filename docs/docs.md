@@ -79,6 +79,8 @@
 
 :simple-kubuntu: [Kubuntu](http://kubuntu.org/) - Kubuntu unites Ubuntu with KDE and the fabulous Plasma desktop, bringing you a full set of applications. The installation includes productivity, office, email, graphics, photography, and music applications ready to use at startup
 
+:simple-lubuntu: [Lubuntu](https://lubuntu.me/) - A complete Operating System that ships the essential apps and services for daily use: office applications, PDF reader, image editor, music and video players, etc.
+
 ##### Arch Based
 
 :simple-manjaro: [Manjaro](https://manjaro.org/) - Manjaro is a free and open source Linux operating system that emphasizes user privacy and control of their hardware. It is user-friendly and suitable for those new to computers, and can be installed on a wide range of devices.
