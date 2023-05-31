@@ -77,3 +77,7 @@
 
 ##### Arch Based
 :simple-manjaro: [Manjaro](https://manjaro.org/) - Manjaro is a free and open source Linux operating system that emphasizes user privacy and control of their hardware. It is user-friendly and suitable for those new to computers, and can be installed on a wide range of devices.  
+
+## :material-library: Icon libraries
+
+:fontawesome-brands-font-awesome: [Font Awesome](https://fontawesome.com/icons) - The world's most popular icon set and toolkit
