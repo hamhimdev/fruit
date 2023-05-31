@@ -8,7 +8,7 @@
 :material-code-tags: [IDEs](#ides)  
 :material-format-paint: [Vector/Image manipulation software](#vectorimage-manipulation-software)  
 :material-language-csharp: [Operating systems](#operating-systems)  
-:material-library: Icon libraries  
+:material-library: Icon libraries
 :octicons-typography-16: Font libraries  
 :material-file-document: Office suites  
 :material-group: Documentation solutions  
@@ -81,3 +81,7 @@
 
 ##### Arch Based
 :simple-manjaro: [Manjaro](https://manjaro.org/) - Manjaro is a free and open source Linux operating system that emphasizes user privacy and control of their hardware. It is user-friendly and suitable for those new to computers, and can be installed on a wide range of devices.  
+
+### material-library: Icon libraries
+
+:fontawesome-brands-font-awesome: [Font Awesome](https://fontawesome.com/icons) - The world's most popular icon set and toolkit
