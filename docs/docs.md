@@ -58,6 +58,8 @@
 
 :simple-lunacy: [Lunacy](https://icons8.com/lunacy) - Free design software that keeps your flow with AI tools and built-in graphics. :material-apple: :material-microsoft-windows: :fontawesome-brands-linux:  
 
+:simple-gimp: [Gimp](https://www.gimp.org/) - The Free & Open Source Image Editor
+
 :simple-notepadplusplus: [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. :material-microsoft-windows:  
 
 
