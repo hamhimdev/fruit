@@ -1,5 +1,5 @@
 # Services/Software
-- We mark what Operating Systems and platforms these Services/Software supports with :material-apple: :material-microsoft-windows: :material-android: :material-apple-ios: :material-web:.
+- We mark what Operating Systems and platforms these Services/Software supports with :material-apple: :material-microsoft-windows: :material-android: :material-apple-ios: :material-web:.  
 - **When we mention :material-apple:+, it means it only supports the M series chips of Apple's Computers.**  
 
 ### :material-list-box: Categories
@@ -35,7 +35,7 @@
 :material-gmail: [Gmail](https://mail.google.com/mail) - Gmail is email that's intuitive, efficient, and useful. 
 :material-web: :material-android: :material-apple-ios:  
 
-:material-microsoft-outlook: [Outlook](https://outlook.live.com/) - Outlook is a free, personal email service. :material-web: :material-apple: :material-microsoft-windows: :fontawesome-solid-mobile:  
+:material-microsoft-outlook: [Outlook](https://outlook.live.com/) - Outlook is a free, personal email service. :material-web: :material-apple: :material-microsoft-windows: :fontawesome-solid-mobile:   
 
 :simple-protonmail: [Proton Mail](https://proton.me/mail) - Keep your conversations private. Proton Mail is an encrypted email service based in Switzerland. :material-web: :material-android: :material-apple-ios:  
 
@@ -56,9 +56,9 @@
 
 :simple-figma: [Figma](https://www.figma.com/) - Figma connects everyone in the design process so teams can deliver better products, faster. :material-apple: :material-microsoft-windows: :fontawesome-brands-linux: :material-web:  
 
-:simple-lunacy: [Lunacy](https://icons8.com/lunacy) - Free design software that keeps your flow with AI tools and built-in graphics. :material-apple: :material-microsoft-windows: :fontawesome-brands-linux: 
+:simple-lunacy: [Lunacy](https://icons8.com/lunacy) - Free design software that keeps your flow with AI tools and built-in graphics. :material-apple: :material-microsoft-windows: :fontawesome-brands-linux:  
 
-:simple-gimp: [Gimp](https://www.gimp.org/) - The Free & Open Source Image Editor
+:simple-gimp: [Gimp](https://www.gimp.org/) - The Free & Open Source Image Editor  
 
 :simple-notepadplusplus: [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. :material-microsoft-windows:  
 
@@ -77,11 +77,11 @@
 ##### [Ubuntu Flavours](https://ubuntu.com/desktop/flavours)
 :simple-kubuntu: [Kubuntu](http://kubuntu.org/) - Kubuntu unites Ubuntu with KDE and the fabulous Plasma desktop, bringing you a full set of applications. The installation includes productivity, office, email, graphics, photography, and music applications ready to use at startup.  
 
-:simple-lubuntu: [Lubuntu](https://lubuntu.me/) - A complete Operating System that ships the essential apps and services for daily use: office applications, PDF reader, image editor, music and video players, etc.
+:simple-lubuntu: [Lubuntu](https://lubuntu.me/) - A complete Operating System that ships the essential apps and services for daily use: office applications, PDF reader, image editor, music and video players, etc.  
 
 ##### Arch Based
 :simple-manjaro: [Manjaro](https://manjaro.org/) - Manjaro is a free and open source Linux operating system that emphasizes user privacy and control of their hardware. It is user-friendly and suitable for those new to computers, and can be installed on a wide range of devices.  
 
 ## :material-library: Icon libraries
 
-:fontawesome-brands-font-awesome: [Font Awesome](https://fontawesome.com/icons) - The world's most popular icon set and toolkit
+:fontawesome-brands-font-awesome: [Font Awesome](https://fontawesome.com/icons) - The world's most popular icon set and toolkit  
